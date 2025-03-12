@@ -13,6 +13,9 @@ Thoroughly test your changes before submitting a pull request.
 Issue Tracker:
 Check the Issue Tracker for tasks.
 
+End Location:
+confirm the final destination of the shipment.
+
 Code Review:
 All contributions undergo a code review process.
 
